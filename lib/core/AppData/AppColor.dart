@@ -1,0 +1,1 @@
+import 'package:flutter/material.dart';class AppColor {  static Color mainColorRed = const Color(0xFFDA2F37);  static Color mainColorScaffoldWhite = const Color(0xFFFFFFFF);  static Color mainColorScaffoldWhiteDarker = const Color(0xFFF6F6F6);  static Color colorHintTextField = const Color(0xFFB4B8BD);}
