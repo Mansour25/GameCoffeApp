@@ -1,0 +1,1 @@
+import 'package:get/get.dart';import 'package:meta/meta.dart';class ConfrontationController extends GetxController {  int select_confrontation = 0;  change_connfrontation(index) {    select_confrontation = index;    update();  }  List<String> gameName = [    'البلوت',    'الشطرنج',  ];}

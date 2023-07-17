@@ -1,0 +1,1 @@
+import 'package:flutter/material.dart';import 'package:flutter/material.dart';import 'package:flutter/widgets.dart';import 'package:get/get.dart';import 'package:meta/meta.dart';class DetailsConfrontationController extends GetxController {  int select_confrontation = 0;  change_select_confrontation(index) {    select_confrontation = index;    update();  }}

@@ -1,0 +1,1 @@
+class UserInformation {  static UserStatus user = UserStatus.visitor;  static bool isShowedOnBoarding = false ;}enum UserStatus{  visitor,  signedIn,}
